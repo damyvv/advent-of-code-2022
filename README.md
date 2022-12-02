@@ -3,7 +3,7 @@
 |Day|Name|Solution|Status|
 |---|---|---|---|
 |[01](https://adventofcode.com/2022/day/1)|Calorie Counting|[view](solutions/day01.rb)|⭐ ⭐|
-|[02](https://adventofcode.com/2022/day/2)||[view](solutions/day02.rb)||
+|[02](https://adventofcode.com/2022/day/2)|Rock Paper Scissors|[view](solutions/day02.rb)|⭐ ⭐|
 |[03](https://adventofcode.com/2022/day/3)||[view](solutions/day03.rb)||
 |[04](https://adventofcode.com/2022/day/4)||[view](solutions/day04.rb)||
 |[05](https://adventofcode.com/2022/day/5)||[view](solutions/day05.rb)||
