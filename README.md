@@ -8,7 +8,7 @@
 |[04](https://adventofcode.com/2022/day/4)|Camp Cleanup|[view](solutions/day04.rb)|⭐ ⭐|
 |[05](https://adventofcode.com/2022/day/5)|Supply Stacks|[view](solutions/day05.rb)|⭐ ⭐|
 |[06](https://adventofcode.com/2022/day/6)|Tuning Trouble|[view](solutions/day06.rb)|⭐ ⭐|
-|[07](https://adventofcode.com/2022/day/7)||[view](solutions/day07.rb)||
+|[07](https://adventofcode.com/2022/day/7)|No Space Left On Device|[view](solutions/day07.rb)|⭐ ⭐|
 |[08](https://adventofcode.com/2022/day/8)||[view](solutions/day08.rb)||
 |[09](https://adventofcode.com/2022/day/9)||[view](solutions/day09.rb)||
 |[10](https://adventofcode.com/2022/day/10)||[view](solutions/day10.rb)||
