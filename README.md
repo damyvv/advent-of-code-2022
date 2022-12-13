@@ -13,7 +13,7 @@
 |[09](https://adventofcode.com/2022/day/9)|Rope Bridge|[view](solutions/day09.rb)|⭐ ⭐|
 |[10](https://adventofcode.com/2022/day/10)|Cathode-Ray Tube|[view](solutions/day10.rb)|⭐ ⭐|
 |[11](https://adventofcode.com/2022/day/11)|Monkey in the Middle|[view](solutions/day11.rb)|⭐ ⭐|
-|[12](https://adventofcode.com/2022/day/12)||[view](solutions/day12.rb)||
+|[12](https://adventofcode.com/2022/day/12)|Hill Climbing Algorithm|[view](solutions/day12.rb)|⭐ ⭐|
 |[13](https://adventofcode.com/2022/day/13)||[view](solutions/day13.rb)||
 |[14](https://adventofcode.com/2022/day/14)||[view](solutions/day14.rb)||
 |[15](https://adventofcode.com/2022/day/15)||[view](solutions/day15.rb)||
