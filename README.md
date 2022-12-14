@@ -15,7 +15,7 @@
 |[11](https://adventofcode.com/2022/day/11)|Monkey in the Middle|[view](solutions/day11.rb)|⭐ ⭐|
 |[12](https://adventofcode.com/2022/day/12)|Hill Climbing Algorithm|[view](solutions/day12.rb)|⭐ ⭐|
 |[13](https://adventofcode.com/2022/day/13)|Distress Signal|[view](solutions/day13.rb)|⭐ ⭐|
-|[14](https://adventofcode.com/2022/day/14)||[view](solutions/day14.rb)||
+|[14](https://adventofcode.com/2022/day/14)|Regolith Reservoir|[view](solutions/day14.rb)|⭐ ⭐|
 |[15](https://adventofcode.com/2022/day/15)||[view](solutions/day15.rb)||
 |[16](https://adventofcode.com/2022/day/16)||[view](solutions/day16.rb)||
 |[17](https://adventofcode.com/2022/day/17)||[view](solutions/day17.rb)||
