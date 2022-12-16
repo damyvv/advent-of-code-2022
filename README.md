@@ -17,7 +17,7 @@
 |[13](https://adventofcode.com/2022/day/13)|Distress Signal|[view](solutions/day13.rb)|⭐ ⭐|
 |[14](https://adventofcode.com/2022/day/14)|Regolith Reservoir|[view](solutions/day14.rb)|⭐ ⭐|
 |[15](https://adventofcode.com/2022/day/15)|Beacon Exclusion Zone|[view](solutions/day15.rb)|⭐ ⭐|
-|[16](https://adventofcode.com/2022/day/16)||[view](solutions/day16.rb)||
+|[16](https://adventofcode.com/2022/day/16)|Proboscidea Volcanium|[view](solutions/day16.rb)|⭐ ⭐|
 |[17](https://adventofcode.com/2022/day/17)||[view](solutions/day17.rb)||
 |[18](https://adventofcode.com/2022/day/18)||[view](solutions/day18.rb)||
 |[19](https://adventofcode.com/2022/day/19)||[view](solutions/day19.rb)||
