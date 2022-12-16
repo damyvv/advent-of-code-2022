@@ -1,7 +1,10 @@
 valves = File.read("day16_input.txt").lines.map {|l| l.scan(/\d+/).map(&:to_i) + l.scan(/[A-Z]{2}/) }
     .map {|a| {a[1] => {flow: a[0], conn: a[2..]}} }.reduce({}, :merge)
 
+$dist = {}
 def get_dist(valves, pos, to)
+    k = {from: pos, to: to}
+    return $dist[k] if $dist.key?(k)
     to_a = [to]
     to_na = []
     dist = 0
@@ -13,6 +16,7 @@ def get_dist(valves, pos, to)
         to_na = []
         dist += 1
     end
+    $dist[k] = dist
     return dist
 end
 
